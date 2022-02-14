@@ -1,2 +1,2 @@
-input_email                                     id                                1txtInputName
+input_email                                     id                                txtInputName
 input_pwd                                 id                                      txtPassword
