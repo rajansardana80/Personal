@@ -6,7 +6,6 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		
 		features= {"src/test/resources/klearnow/features/brokerui"},
 		glue= {"klearnow.stepdefinations.broker","klearnow.hooks"},
 	//	plugin= {"pretty","json:target/ExecutionReport.json"},
