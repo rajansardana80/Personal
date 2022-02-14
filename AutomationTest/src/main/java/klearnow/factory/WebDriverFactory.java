@@ -16,7 +16,7 @@ public class WebDriverFactory {
 	
 	public WebDriver intitalize_driver(String browser)
 	{
-		System.out.println("Browser value is :: "+browser);
+		System.out.println("Browser value is 123:: "+browser);
 		
 		if(browser.equals("chrome"))
 		{
